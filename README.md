@@ -1,4 +1,4 @@
-<h1>Howdy, I'm Ryan! <br/><a href="https://github.com/rcapacia">Frontend Developer</a> <a href="https://www.youtube.com/@KPASHAHOME">& Youtuber </a></h1>
+<h1>Howdy, I'm Ryan! <br/><a href="https://github.com/rcapacia">Frontend Developer</a> & <a href="https://www.youtube.com/@KPASHAHOME"> Youtuber </a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 

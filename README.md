@@ -5,5 +5,6 @@
 - <b>HTML & CSS only Projects</b>
   - Profile Card (https://github.com/rcapacia/htmlProject01)
   - Profile Card with Transformation effect (https://github.com/rcapacia/HtmlCardTransformation)
+  - Login Form with bg effect (https://github.com/rcapacia/LoginForm-HtmlCss)
 
 
